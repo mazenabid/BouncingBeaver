@@ -14,6 +14,11 @@
 ## Video (Includes Game Demo)
 [![Watch the Game Demo on YouTube](https://img.youtube.com/vi/mlvhgll4LJ4/0.jpg)](https://youtu.be/mlvhgll4LJ4?si=Iee2i8iH4MaxCKdz)
 
+## Game Play
+Bouncing Beaver is designed for ease of access and playability. You don't need to install any additional software or game engines to enjoy our game. Simply open your web browser on either your mobile device or computer and start playing immediately. The game is fully optimized for both platforms, ensuring a smooth and engaging experience whether you're at home or on the go. Just click the link, and you're ready to help our beaver navigate the beautiful Canadian landscapes!
+
+[Play Bouncing Beaver](https://gx.games/games/wqdykv/bouncing-beaver-ctch-312/)
+
 ## Unique Features
 - Province-specific backgrounds
 - Health bar for the beaver
