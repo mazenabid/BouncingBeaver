@@ -16,7 +16,6 @@
 
 ## Game Play
 Bouncing Beaver is designed for ease of access and playability. You don't need to install any additional software or game engines to enjoy our game. Simply open your web browser on either your mobile device or computer and start playing immediately. The game is fully optimized for both platforms, ensuring a smooth and engaging experience whether you're at home or on the go. Just click the link, and you're ready to help our beaver navigate the beautiful Canadian landscapes!
-
 [Play Bouncing Beaver](https://gx.games/games/wqdykv/bouncing-beaver-ctch-312/)
 
 ## Unique Features
@@ -26,6 +25,7 @@ Bouncing Beaver is designed for ease of access and playability. You don't need t
 
 ## Story Arc
 The story follows a beaver navigating through various Canadian landscapes. Each level represents a different province with its unique challenges and obstacles. The narrative is based on traditional dramatics, featuring a climax at the end of each level. Players have opportunities to create their own stories and game mods, adding a cultural layer to the narrative.
+
 <img width="765" alt="Screenshot 2024-06-15 at 5 34 59 AM" src="https://github.com/mazenabid/BouncingBeaver/assets/87061766/725d05d4-a1b0-4a7c-abbc-a3a6839191a7">
 
 ## Project Timeline
