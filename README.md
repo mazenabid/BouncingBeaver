@@ -43,9 +43,11 @@ The story follows a beaver navigating through various Canadian landscapes. Each 
 - Deployment on chosen platform
 - Post-deployment support
 
-
 ## Development Progress
 - **Iterative Design:** Regular updates and feedback loops
 - **Prototyping:** Early versions of game levels and mechanics
 - **Game Testing:** Continuous testing for quality assurance
 - **Plan for Completion:** Focused sprints on remaining tasks
+
+## Notion Page
+Stay updated on our progress and see the detailed timeline of how we developed Bouncing Beaver by visiting our Notion page: [Project Progress on Notion](https://mazenn.notion.site/a32cadb506ff469082299fa6788c5fc4?v=c7050134c56f46c6bf2cf36c0a727c2a)
